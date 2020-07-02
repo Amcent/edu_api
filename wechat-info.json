@@ -1,0 +1,27 @@
+{
+  "wechatConfig": {
+    "appId": "wxf31cb4f589ed68c3",
+    "wechatRedirectUrl": "http://edu-www.aitschool.com",
+    "store": "FileStore_C:\\Users\\vince\\Desktop\\EDU\\edu-api\\wechat-info.json"
+  },
+  "globalToken": {
+    "count": 0
+  },
+  "urls": {},
+  "oauth": {
+    "oCI_l1A4f0pIgAOPJvPTGlIWrRCU": {
+      "access_token": "34_Jz7KjD4BVFRQyEK6CWpaNy9wPDQbJoKtf1GTfbJHb5xXfdIWnMepaTEHeZSWbIgjP4KmfJpPOYcvfNFi_9ArhnXL0iHw1pLjUIcsZvzkRkk",
+      "expires_in": 7200,
+      "refresh_token": "34_AwgfwdoP3T3GvHFk_4dSLpeZTBZZf3FSMEQtAcfd7yYrMvnm5XCkQl8jljFSTYsocDadHHFOhE0ydwKjrH0mcbTfo-VzFZRIDuHoz1sVUPk",
+      "openid": "oCI_l1A4f0pIgAOPJvPTGlIWrRCU",
+      "scope": "snsapi_login",
+      "unionid": "ocWmn1KkVEA_o2gS3s563eMP5V74",
+      "expirationTime": 1591993206995,
+      "key": "oCI_l1A4f0pIgAOPJvPTGlIWrRCU",
+      "createDate": "2020-06-12T18:21:06.995Z",
+      "modifyDate": "2020-06-12T18:21:06.995Z"
+    }
+  },
+  "card": {},
+  "mp": {}
+}
